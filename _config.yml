@@ -6,13 +6,13 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.28591
-  lightness: 0.553039
-  rhythmicContrast: 0.424626
-  saturation: 0.492612
+  brandStrength: 0.2859106156975031
+  lightness: 0.5530390462372452
+  rhythmicContrast: 0.42462644702754915
+  saturation: 0.49261226993985474
 cta: {}
 layout_spectrum: 0.5997875640168786
 name: WhoIsAbishag
 opengraph: {}
 purpose: []
-typography_spectrum: 0.8267032613512129
+typography_spectrum: 0.826703
