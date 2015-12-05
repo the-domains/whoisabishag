@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WhoIsAbishag]]></title>
         <description><![CDATA[WhoIsAbishag]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/whoisabishag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 02:30:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 02:40:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whoisabishag/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefined37f60dc2-97f9-4f6f-a1bd-6196062f33a5/index.html</link>
+            <link>https://thegrid.ai/whoisabishag/142a46ee-3b48-4f4b-bd3a-1305b6b2ded3/index.html</link>
+            <guid isPermaLink="false">142a46ee-3b48-4f4b-bd3a-1305b6b2ded3</guid>
+            <pubDate>Sat, 05 Dec 2015 02:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/whoisabishag/37f60dc2-97f9-4f6f-a1bd-6196062f33a5/index.html</link>
             <guid isPermaLink="false">37f60dc2-97f9-4f6f-a1bd-6196062f33a5</guid>
             <pubDate>Sat, 05 Dec 2015 02:29:51 GMT</pubDate>
         </item>
