@@ -6,10 +6,10 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.2859106156975031
-  lightness: 0.5530390462372452
-  rhythmicContrast: 0.42462644702754915
-  saturation: 0.49261226993985474
+  brandStrength: 0.608108
+  lightness: 0.405405
+  rhythmicContrast: 0.709459
+  saturation: 0.317567
 cta: {}
 layout_spectrum: 1
 name: WhoIsAbishag
