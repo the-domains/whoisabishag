@@ -1,4 +1,19 @@
-analytics: {}
+name: WhoIsAbishag
+favicon: null
+layout_spectrum: 0.599787
+typography_spectrum: 0.8267032613512129
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -8,11 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.2859106156975031
   lightness: 0.5530390462372452
-  rhythmicContrast: 0.42462644702754915
   saturation: 0.49261226993985474
-cta: {}
-layout_spectrum: 0.599787
-name: WhoIsAbishag
-opengraph: {}
+  rhythmicContrast: 0.42462644702754915
 purpose: []
-typography_spectrum: 0.8267032613512129
