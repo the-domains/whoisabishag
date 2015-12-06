@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: 'Stream Heavy Melt All, a playlist by DavidEarl Jones from desktop or your mobile device'
 app_links:
@@ -24,13 +24,16 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/davidearl-jones/sets/heavy-melt-all-1'
 title: Heavy Melt All by DavidEarl Jones
-datePublished: '2015-12-05T03:18:40.609Z'
-dateModified: '2015-12-05T03:18:06.720Z'
+datePublished: '2015-12-06T07:54:50.006Z'
+dateModified: '2015-12-05T03:46:47.128Z'
 sourcePath: _posts/2015-12-05-heavy-melt-all-by-davidearl-jones.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
